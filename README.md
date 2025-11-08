@@ -18,14 +18,18 @@ PowerBI Deshbord Analyzing Netfliex movies &amp; Tv Shows Content Distribution A
 - Pandas (Data Cleaning in Python, if applicable)
 
 --> Dashboard Preview
+<img width="1292" height="722" alt="image" src="https://github.com/user-attachments/assets/333df066-ccd0-4d58-a4aa-130b0a7b19bc" />
 
 
 --> Dataset
 Source: Kaggle - Netflix Movies and TV Shows Dataset
+[Cleaned_netfliex.xlsx](https://github.com/user-attachments/files/23431105/Cleaned_netfliex.xlsx)
+[Cleaned_netfliex.csv](https://github.com/user-attachments/files/23431104/Cleaned_netfliex.csv)
+
 
 --> How to Run
 1. Clone this repository
-2. Open `Netflix_Dashboard.pbix` using Power BI Desktop
+2. Open `Netflix.pbix` using Power BI Desktop
 
 ---
-Made with ❤️ by *Your Name*
+Made by "VED"
